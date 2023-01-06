@@ -8,6 +8,10 @@ import java.security.InvalidKeyException;
 import java.security.NoSuchAlgorithmException;
 import java.util.Arrays;
 
+/**
+ * ASP.NET identity password hashing 링크
+ *  https://github.com/aspnet/AspNetIdentity/blob/main/src/Microsoft.AspNet.Identity.Core/Crypto.cs
+ */
 public class Rfc2898DeriveBytesTest {
 
     @Test
